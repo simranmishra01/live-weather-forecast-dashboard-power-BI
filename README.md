@@ -17,9 +17,9 @@ Multi-city weather monitoring · 7-day forecast · AQI tracking · Daylight cycl
 
 ## 📊 Dashboard Preview  
 
-![Weather Dashboard - Patna View](dashboard-patna.png)
+![Weather Dashboard - Patna View](https://github.com/simranmishra01/live-weather-forecast-dashboard-power-BI/blob/main/snapshot1.png)
 
-![Weather Dashboard - Mumbai View](dashboard-mumbai.png)
+![Weather Dashboard - Mumbai View](https://github.com/simranmishra01/live-weather-forecast-dashboard-power-BI/blob/main/snapshot.png)
 
 ---
 
